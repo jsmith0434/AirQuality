@@ -20,7 +20,7 @@ The included Python script performs the following operations:
 4.  **PCA (Principal Component Analysis):** Reduces dimensionality to identify the primary "loadings" or contributors to air quality variance, such as the relationship between the nocturnal inversion and stagnant winds.
 
 ## Scientific Context
-This project builds upon research from the **Scripps Institution of Oceanography** and **SDSU**, which links water quality in the Tijuana River to air quality via aerosolization. Key drivers investigated include:
+This project builds upon research from the Scripps Institution of Oceanography and SDSU, which links water quality in the Tijuana River to air quality via aerosolization. Key drivers investigated include:
 * **The Nocturnal Inversion:** Air cooling at night trapping gases near the ground.
 * **South-Easterly Wind Effect:** Localized wind patterns that transport pollutants into residential areas.
 * **Aerosolization:** High humidity and turbulent river flow contributing to the formation of fine particulate matter.
